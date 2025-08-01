@@ -1,0 +1,13 @@
+site_name: 居仁wiki
+site_description: "SWROW世界觀百科"
+site_author: 居仁wiki
+theme:
+  name: material
+nav:
+  - 首頁: index.md
+  - 人物: characters.md
+  - 物件: objects.md
+  - 事件: events.md
+search:
+  lang: zh
+  separator: '[\s\-]'
